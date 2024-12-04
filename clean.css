@@ -1,0 +1,17 @@
+h1 {
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    object-fit: stretch;
+    max-height: 500px;
+}
